@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lugares>
+	<locacion>
+		<imagen>Bangkok.jpg</imagen>
+		<info continente= "asia">Info Bangkok</info>
+	</locacion>
+<locacion>
+		<imagen>Brasil.jpg</imagen>
+		<info continente= "america">Info Brasil</info>
+	</locacion>
+<locacion>
+		<imagen>Egypt.jpg</imagen>
+		<info continente= "africa">Info Egipto</info>
+	</locacion>
+<locacion>
+		<imagen>London.jpg</imagen>
+		<info continente= "europa">Info London</info>
+	</locacion>
+<locacion>
+		<imagen>Mexico.jpg</imagen>
+		<info continente= "america">Info MX</info>
+	</locacion>
+<locacion>
+		<imagen>New_York.jpg</imagen>
+		<info continente= "america">Info Nueava York</info>
+	</locacion>
+<locacion>
+		<imagen>Paris.jpg</imagen>
+		<info continente= "europa">Info Paris</info>
+	</locacion>
+
+<locacion>
+		<imagen>robin.png</imagen>
+		<info titan= "Robin">Info Robin</info>
+	</locacion>
+<locacion>
+		<imagen>chico bestia.png</imagen>
+		<info titan= "Chico Bestia">Info Chico Bestia</info>
+	</locacion>
+
+<locacion>
+		<imagen>SteelBoy.png</imagen>
+		<info lucha="Steel Boy">Info Steel Boy</info>
+	</locacion>
+<locacion>
+		<imagen>starfire.png</imagen>
+		<info titan= "Star Fire">Info StarFire</info>
+	</locacion>
+<locacion>
+		<imagen>raven.png</imagen>
+		<info titan= "Raven">Info Raven</info>
+	</locacion>
+
+<locacion>
+		<imagen>cyborg.png</imagen>
+		<info titan= "Cyborg">Info Cyborg</info>
+	</locacion>
+
+<locacion>
+		<imagen>mandy.png</imagen>
+		<info titan= "aventuras">Info Mandy</info>
+	</locacion>
+<locacion>
+		<imagen>Jake.png</imagen>
+		<info adventure= "Jake">Info Jake</info>
+	</locacion>
+<locacion>
+		<imagen>Finn.jpg</imagen>
+		<info adventure= "Finn">Info Finn</info>
+	</locacion>
+<locacion>
+		<imagen>coraje.jpg</imagen>
+		<info cartoon= "Coraje">Info Coraje</info>
+	</locacion>
+<locacion>
+		<imagen>psycho.jpg</imagen>
+		<info lucha= "Psycho">Info Psycho</info>
+	</locacion>
+
+<locacion>
+		<imagen>starfire.png</imagen>
+		<info titan= "Star Fire">Info StarFire</info>
+	</locacion>
+
+<locacion>
+		<imagen>puroHueso.jpg</imagen>
+		<info aventura= "Puro Hueso">Info Puro Hueso</info>
+	</locacion>
+
+
+</lugares>
+
+
